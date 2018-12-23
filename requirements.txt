@@ -1,0 +1,14 @@
+pyltr
+requests
+requests_cache
+html2text
+numpy
+bs4
+objectpath
+spacy
+sklearn
+nltk
+gensim
+Orange3
+scikit_posthocs
+scipy
